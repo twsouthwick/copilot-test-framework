@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/CopilotMockProviderTests/CopilotMockProviderTests.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/CopilotMockProvider/CopilotMockProvider.csproj" Id="9baccb3b-aa55-4e96-8891-c3c62a460dc6" />
+  </Folder>
+</Solution>
